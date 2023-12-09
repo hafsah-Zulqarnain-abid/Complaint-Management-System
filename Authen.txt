@@ -1,0 +1,6 @@
+Username	Password	Designation
+rijja		rijja		admin
+tania		tania		teacher
+taha		taha		employee
+hafsah		hafsah		manager
+hammad		hammad		campusDirector

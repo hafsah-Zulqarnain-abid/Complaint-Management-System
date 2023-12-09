@@ -1,0 +1,2 @@
+Cid		State		Type		Teacher		Dept		Description
+1		closed		equipment		tania		admin		projector		not		working

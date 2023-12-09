@@ -1,0 +1,2 @@
+Cid		EmpName		JobStatus		Solution
+1		taha		true		projector given in the room
